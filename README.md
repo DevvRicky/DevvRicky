@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Ricky!</h1>
 <h3 align="center">A developer from Brazil!</h3>
+<img src="octocat.png" height=200px align="right">
 
 - 🌱 I’m currently learning **- Back-end: Java, C# and Ruby, Front-end:React and Vue**
 
