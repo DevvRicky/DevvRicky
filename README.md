@@ -10,7 +10,7 @@
   
 - ⚡ Fun fact **I am great at dealing with people**
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Contact me:</h2>
 <div align="center"> 
   <h4>Social:</h4>
   <a href="https://instagram.com/_77barbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
