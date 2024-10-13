@@ -80,10 +80,10 @@
   <div>
   <h2>👨‍💻Stats:</h2>
   <a href="https://github.com/DevvRicky/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevvRicky&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevvRicky&show_icons=true&rank_icon=github&title_color=00df7f7&text_color=dddd&bg_color=0d1117" />
   </a>
   <a href="https://github.com/DevvRicky/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevvRicky&hide_progress=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevvRicky&hide_progress=true&title_color=00df7f7&text_color=dddd&bg_color=0d1117" />
   </a>
   </div>
 
