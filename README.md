@@ -10,7 +10,7 @@
   
 - ⚡ Fun fact **I am great at dealing with people**
 
-<h2 align="left">Contact me:</h2>
+<h2 align="left">📱Contact me:</h2>
 <div align="center"> 
   <h4>Social:</h4>
   <a href="https://instagram.com/_77barbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,7 +26,7 @@
 
 </div>
 
-  <h2>IDEs that i use: </h2>
+  <h2>👾IDEs that i use: </h2>
 <div align="center">
   <a href="https://eclipseide.org" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"></a>
@@ -37,10 +37,10 @@
   <a href="https://notepad-plus-plus.org" target="_blank"><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" target="_blank"></a>
 </div>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">📃Languages and Tools:</h2>
 
-<div align="Center">
-  <h3>Skils:</h3>
+<div align="left">
+  <h3>💻Skils:</h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <!--Html-->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <!--Css-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"height="40"/> </a> <!--JavaScript-->
@@ -53,8 +53,8 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <!--MSSQL-->
 </div>
 
-<div align="Center">
-  <h3>Learning:</h3>
+<div align="left">
+  <h3>🎒Learning:</h3>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <!--VueJs-->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <!--C#-->
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <!--Php-->
@@ -70,15 +70,15 @@
   <a href=""> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/335811e6c4ac5d017a4ce179c624c86e4179ebd9/icons/file_type_gamemaker2.svg" alt="unity" width="40" height="40"></a>
 </div>
     
-<div align="Center">
-  <h3>Others:</h3>
+<div align="left">
+  <h3>🧑‍💼Others:</h3>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!--Git-->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!--Linux-->
 </div>
 <hr>
 
   <div>
-  <h2>Stats:</h2>
+  <h2>👨‍💻Stats:</h2>
   <a href="https://github.com/DevvRicky/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevvRicky&show_icons=true&theme=radical" />
   </a>
@@ -90,7 +90,7 @@
   <hr>
 
   <div>
-    <h2>Contribute to my projects!</h2>
+    <h2>Contribute to my projects!☕️❤️</h2>
     <a href="ko-fi.com/rickydv" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
   </div>
