@@ -79,13 +79,9 @@
 
   <div>
   <h2>👨‍💻Stats:</h2>
-  <a href="https://github.com/DevvRicky/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevvRicky&show_icons=true&rank_icon=github&title_color=00df7f7&text_color=dddd&bg_color=0d1117" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DevvRicky">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevvRicky&hide_progress=false&title_color=00df7f7&text_color=dddd&bg_color=0d1117" alt="Top Langs" />
-  </a>
-  </div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevvRicky&size_weight=0.5&count_weight=0.5&hide_progress=false&title_color=00df7f7&text_color=dddd&bg_color=0d1117" alt="Top Langs" />
+    </div>
 
   <hr>
 
