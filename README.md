@@ -1,10 +1,9 @@
 <h1 align="center">Hey 👋, I'm Ricky!</h1>
-<h3 align="center">A developer from Brazil!</h3>
-<img src="octocat.png" height=200px align="right">
+<h3 align="center">A dev from Brazil!</h3>
 
 - 🌱 **Currently studying Systems Development at ETEC**
 
-- 📝 I regularly write articles on [https://dev.to/dvricky](https://dev.to/dvricky)
+<!-- 📝 I regularly write articles on [https://dev.to/dvricky](https://dev.to/dvricky)-->
 
 - 💬 Ask me about **Anything! I am always open to questions!**
   
