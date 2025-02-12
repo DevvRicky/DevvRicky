@@ -1,15 +1,12 @@
 <!--<img src="banner_github.png" alt="GitHub Banner" width="100%" />-->
 <h1 align="left">Hey, I'm Ricky, a developer from Brazil!👋</h1>
+<!-- 📝 I regularly write articles on [https://dev.to/dvricky](https://dev.to/dvricky) - currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>-->
 
-- 🌱 **Currently studying Systems Development at ETEC**
-
-<!-- 📝 I regularly write articles on [https://dev.to/dvricky](https://dev.to/dvricky)-->
-
+- 👨🏼‍🎓 **Currently studying Systems Development at ETEC**
 - 💬 Ask me about **Anything! I am always open to questions!**
-  
 - ⚡ Fun fact **I am great at dealing with people**
-
-<h2 align="left">📱Contact me:</h2>
+- 🎬 Might Start a YouTube Channel Soon! <i></i>
+<h2 align="left">📢 Get in Touch:</h2>
 <div align="center"> 
   <h4>Social:</h4>
   <a href="https://instagram.com/_77barbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -21,11 +18,9 @@
   <a href="https://stackoverflow.com/users/27772127/ricky" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   <a href="https://leetcode.com/u/CodeRickyy/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode" target="_blank"></a>
   <a href="https://dev.to/dvricky" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
-  <!--   <a href="" target="_blank"><img src="" target="_blank"></a> -->
-
 </div>
 
-  <h2>👾IDEs that i use: </h2>
+  <h2>🚀 Where I Code: </h2>
 <div align="center">
   <a href="https://eclipseide.org" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=blue" target="_blank"></a>
@@ -35,7 +30,7 @@
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
 </div>
 
-<h2 align="left">📃Languages and Tools:</h2>
+<h2 align="left">📃Languages & Tools:</h2>
 
 <div align="left">
   <h3>💻Skils:</h3>
@@ -76,7 +71,7 @@
 <hr>
 
   <div>
-  <h2>👨‍💻Stats:</h2>
+  <h2>📈 Activity Overview:</h2>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevvRicky&show_icons=true&rank_icon=github&title_color=00df7f7&text_color=dddd&bg_color=0d1117" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevvRicky&size_weight=0.5&count_weight=0.5&hide_progress=false&title_color=00df7f7&text_color=dddd&bg_color=0d1117" alt="Top Langs" />
     </div>
@@ -84,7 +79,7 @@
   <hr>
 
   <div>
-    <h2>Contribute to my projects!☕️❤️</h2>
+    <h2> Support My Work!☕️❤️</h2>
     <a href="https://ko-fi.com/rickydv" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
   </div>
