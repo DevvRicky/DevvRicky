@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Ricky!</h1>
-<h3 align="center">A dev from Brazil!</h3>
+<!--<img src="banner_github.png" alt="GitHub Banner" width="100%" />-->
+<h1 align="left">Hey, I'm Ricky, a developer from Brazil!👋</h1>
 
 - 🌱 **Currently studying Systems Development at ETEC**
 
@@ -13,10 +13,10 @@
 <div align="center"> 
   <h4>Social:</h4>
   <a href="https://instagram.com/_77barbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://x.com/CodeRickyy" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" target="_blank"></a>
-  <a href ="mailto:ricky.abreu.barbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricky-de-abreu-barbosa-06a3a7322/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://t.me/rickydev1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricky-de-abreu-barbosa-06a3a7322/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href ="mailto:ricky.abreu.barbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://x.com/CodeRickyy" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" target="_blank"></a>
   <h4>Dev Social:</h4>
   <a href="https://stackoverflow.com/users/27772127/ricky" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   <a href="https://leetcode.com/u/CodeRickyy/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode" target="_blank"></a>
@@ -33,7 +33,6 @@
   <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=white&color=black&labelColor=darkorchid" target="_blank"></a>
   <a href="https://www.jetbrains.com/rider/" target="_blank"><img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" target="_blank"></a>
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
-  <a href="https://www.arduino.cc/en/software" target="_blank"><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" target="_blank"></a>
 </div>
 
 <h2 align="left">📃Languages and Tools:</h2>
