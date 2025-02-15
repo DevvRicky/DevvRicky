@@ -5,8 +5,8 @@
 - 👨🏼‍🎓 **Currently studying Systems Development at ETEC**
 - 💬 Ask me about **Anything! I am always open to questions!**
 - ⚡ Fun fact **I am great at dealing with people**
-- 🎬 Might Start a YouTube Channel Soon! <i></i>
-<h2 align="left">📢 Get in Touch:</h2>
+- 🎬 Might Start a YouTube Channel! <i></i>
+<h2 align="left">📢 Get in Touch!</h2>
 <div align="center"> 
   <h4>Social:</h4>
   <a href="https://instagram.com/_77barbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -68,7 +68,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevvRicky&show_icons=true&rank_icon=github&title_color=00df7f7&text_color=dddd&bg_color=0d1117" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevvRicky&size_weight=0.5&count_weight=0.5&hide_progress=false&title_color=00df7f7&text_color=dddd&bg_color=0d1117" alt="Top Langs" />
     </div>
-
+    
   <hr>
 
   <div>
