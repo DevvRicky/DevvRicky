@@ -9,7 +9,7 @@
   <h2 align="left">📢 Get in Touch!</h2>
   <h3 align="center">Professional Connections: </h3>
   <a href="https://www.linkedin.com/in/ricky-de-abreu-barbosa-06a3a7322/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href ="mailto:ricky.abreu.barbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="mailto:contatorickybarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/rickydev1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <h3 align="center">🏗Tech Profiles: </h3>
   <a href="https://stackoverflow.com/users/27772127/ricky" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
